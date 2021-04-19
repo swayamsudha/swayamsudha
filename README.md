@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning flutter
+- 🤔 I’m looking for help with flutter
+- 💬 Ask me about c | oops | java | python
+- 📫 How to reach me: instagram | linked in
+- ⚡ Fun fact: i used to hate coding
+
+
+
+<img src='https://github-readme-stats.vercel.app/api?username=swayamsudha&show_icons=true&theme=gruvbox'>
+
+### Things I know 😄
+ - C
+ - java
+ - python
+ - oops
+ - DSA
+ - Javascript
+
+ 
+### Tools I Use 🔭
+ - VSCode
+ - Git
+ 
+### Connect with me
+- [Instagram](https://www.instagram.com/__swa_yam__/)
