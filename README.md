@@ -23,9 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: i used to hate coding
 
 
-
-<img src='https://github-readme-stats.vercel.app/api?username=swayamsudha&show_icons=true&theme=gruvbox'>
-
 ### Things I know 😄
  - C
  - java
@@ -41,3 +38,7 @@ Here are some ideas to get you started:
  
 ### Connect with me
 - [Instagram](https://www.instagram.com/__swa_yam__/)
+
+</br>
+
+<img src='https://github-readme-stats.vercel.app/api?username=swayamsudha&show_icons=true&theme=gruvbox'>
