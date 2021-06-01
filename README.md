@@ -12,9 +12,9 @@
 
 ### Things I know 😄
  - C
- - java
- - python
- - oops
+ - Java
+ - Python
+ - OOPS
  - DSA
  - Javascript
 
@@ -22,6 +22,7 @@
 ### Tools I Use 🔭
  - VSCode
  - Git
+ - Android Studio
  
 ### Connect with me
 - [Instagram](https://www.instagram.com/__swa_yam__/)
