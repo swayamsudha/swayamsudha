@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-<img align="right" src="https://media.giphy.com/media/26FPMoFGJlJQuwdzO/giphy.gif" alt="wonder woman" width="600" height="350" >
+<img align="right" src="https://media.giphy.com/media/l41Yq5KYEmbxFaeVq/giphy.gif" alt="wonder woman" width="600" height="350" >
 
 - 🌱 I’m currently learning flutter
 - 🤔 I’m looking for help with flutter
