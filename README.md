@@ -4,7 +4,7 @@
 <img align="right" src="https://media.giphy.com/media/l41Yq5KYEmbxFaeVq/giphy.gif" alt="wonder woman" width="600" height="350" >
 
 - 🌱 I’m currently learning flutter
-- 🤔 I’m looking for help with flutter
+- 🤔 I’m looking forward to learn more and more everyday
 - 💬 Ask me about c | oops | java | python
 - 📫 How to reach me: instagram | linked in
 - ⚡ Fun fact: i used to hate coding
