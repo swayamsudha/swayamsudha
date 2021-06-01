@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/26FPMoFGJlJQuwdzO/giphy.gif" alt="wonder woman" width="500" height="350" >
+<img align="right" src="https://media.giphy.com/media/26FPMoFGJlJQuwdzO/giphy.gif" alt="wonder woman" width="500" height="300" >
 
 ### Hi there 👋
 
