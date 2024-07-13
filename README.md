@@ -3,29 +3,34 @@
 
 <img align="right" src="https://media.giphy.com/media/l41Yq5KYEmbxFaeVq/giphy.gif" alt="wonder woman" width="550" height="350" >
 
-- 🌱 I’m currently learning flutter
+- 🌱 I am learning ASP.net MVC.
 - 🤔 I’m looking forward to learn more and more everyday
-- 💬 Ask me about c | oops | java | python
+- 💬 Ask me about c | oops | java | C#
 - 📫 How to reach me: instagram | linked in
-- ⚡ Fun fact: i used to hate coding
+
 
 
 ### Things I know 😄
  - C
  - Java
- - Python
+ - C#
+ - ASP.Net
+ - MSSQL
+ - Typescript
  - OOPS
  - DSA
  - Javascript
 
  
 ### Tools I Use 🔭
+ - Visual Studio Proffessional
  - VSCode
  - Git
  - Android Studio
+ - Microsoft SQL Server Management Studio
  
 ### Connect with me
-- [Instagram](https://www.instagram.com/__swa_yam__/)
+- [LinkedIn](www.linkedin.com/in/swayam-sudha-sahoo-393188212)
 
 </br>
 
